@@ -1,0 +1,8 @@
+dataset/
+models/
+venv/
+*.pth
+*.pt
+*.h5
+__pycache__/
+*.pyc
